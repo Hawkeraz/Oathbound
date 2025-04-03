@@ -10,8 +10,15 @@ logs
 mods
 moddata
 patchouli_books
+patchouli_data
 saves
 screenshots
 simplebackups
 journeymap
 resourcepacks
+command_history
+minecraftinstance
+options
+realms_persistence
+usercache
+usernamecache
