@@ -1,0 +1,5 @@
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/kill
+/time set day
