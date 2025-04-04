@@ -1,0 +1,33 @@
+{
+  "essences": {
+    "aureal": 25,
+    "blood": 0,
+    "souls": 1
+  },
+  "forge_tier": 2,
+  "inputs": [
+    {
+      "amount": 2,
+      "ingredient": {
+        "item": "minecraft:gunpowder"
+      }
+    },
+    {
+      "amount": 2,
+      "ingredient": {
+        "item": "minecraft:amethyst_shard"
+      }
+    }
+  ],
+  "magic_circle": "forbidden_arcanus:create_item",
+  "main_ingredient": {
+    "item": "minecraft:flint"
+  },
+  "result": {
+    "type": "forbidden_arcanus:create_item",
+    "result_item": {
+      "count": 4,
+      "id": "waystones:warp_dust"
+    }
+  }
+}

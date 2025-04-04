@@ -1,16 +1,21 @@
 {
   "essences": {
-    "aureal": 2500,
-    "blood": 2500,
-    "souls": 25,
-    "experience": 2500
+    "aureal": 2000,
+    "blood": 1000,
+    "souls": 5
   },
-  "forge_tier": 4,
+  "forge_tier": 3,
   "inputs": [
     {
-      "amount": 8,
+      "amount": 4,
       "ingredient": {
-        "item": "minecraft:stone_bricks"
+        "item": "minecraft:stone"
+      }
+    },
+    {
+      "amount": 2,
+      "ingredient": {
+        "item": "minecraft:white_dye"
       }
     }
   ],
@@ -22,7 +27,7 @@
     "type": "forbidden_arcanus:create_item",
     "result_item": {
       "count": 1,
-      "id": "waystones:waystone"
+      "id": "waystones:white_portstone"
     }
   }
 }
