@@ -1,0 +1,27 @@
+{
+  "essences": {
+    "aureal": 75,
+    "blood": 0,
+    "souls": 0
+  },
+  "forge_tier": 1,
+  "inputs": [
+    {
+      "amount": 4,
+      "ingredient": {
+        "item": "minecraft:ender_pearl"
+      }
+    }
+  ],
+  "magic_circle": "forbidden_arcanus:create_item",
+  "main_ingredient": {
+    "item": "waystones:blank_scroll"
+  },
+  "result": {
+    "type": "forbidden_arcanus:create_item",
+    "result_item": {
+      "count": 2,
+      "id": "waystones:warp_scroll"
+    }
+  }
+}

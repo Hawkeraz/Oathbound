@@ -3,3 +3,27 @@
 /gamemode creative
 /kill
 /time set day
+/kubejs hand
+/reload
+/kubejs hand
+/reload
+/kubejs hand
+/reload
+/kubejs hand
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/kubejs hand
+/reload
+/kubejs hand
+/reload
+/kubejs hand
