@@ -10,7 +10,7 @@
     {
       "amount": 8,
       "ingredient": {
-        "item": "minecraft:stone_bricks"
+        "item": "minecraft:polished_blackstone_bricks"
       }
     }
   ],
@@ -22,7 +22,7 @@
     "type": "forbidden_arcanus:create_item",
     "result_item": {
       "count": 1,
-      "id": "waystones:waystone"
+      "id": "waystones:blackstone_waystone"
     }
   }
 }
