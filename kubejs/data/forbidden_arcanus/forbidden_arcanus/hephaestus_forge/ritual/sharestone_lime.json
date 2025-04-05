@@ -1,0 +1,33 @@
+{
+  "essences": {
+    "aureal": 2000,
+    "blood": 1000,
+    "souls": 5
+  },
+  "forge_tier": 4,
+  "inputs": [
+    {
+      "amount": 4,
+      "ingredient": {
+        "item": "minecraft:smooth_stone"
+      }
+    },
+    {
+      "amount": 2,
+      "ingredient": {
+        "item": "minecraft:lime_dye"
+      }
+    }
+  ],
+  "magic_circle": "forbidden_arcanus:create_item",
+  "main_ingredient": {
+    "item": "waystones:warp_stone"
+  },
+  "result": {
+    "type": "forbidden_arcanus:create_item",
+    "result_item": {
+      "count": 1,
+      "id": "waystones:lime_sharestone"
+    }
+  }
+}

@@ -2,6 +2,9 @@
 .idea
 .probe
 .vscode
+.gitignore
+.gitattributes
+.curseclient
 kubejs/client_scripts/jsconfig.json
 kubejs/startup_scripts/jsconfig.json
 kubejs/server_scripts/jsconfig.json
